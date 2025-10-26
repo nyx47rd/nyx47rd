@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Selam, ben Nyx47rd
 
-<!--
-**nyx47rd/nyx47rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Hakkımda
+- 🔭 Şu anda kendimi geliştiriyorum.  
+- 🌱 Yazılım, teknoloji ve verimlilik konularına ilgim var.  
+- 🧠 Yeni şeyler öğrenmeyi severim.  
+- ⚙️ Şu an GitHub profilimi geliştiriyorum.  
 
-Here are some ideas to get you started:
+## ⚡ Teknolojiler
+<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyx47rd&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyx47rd&layout=compact&theme=tokyonight)
+
+## 🧩 Küçük Not
+> “Kod, sadece bir araçtır; düşünme biçimini değiştirirsen her şey değişir.”
+
+---
+📫 **İletişim:** Eğer bir şey paylaşmak istersen [GitHub üzerinden mesaj bırakabilirsin.](https://github.com/nyx47rd)
